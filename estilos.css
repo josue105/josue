@@ -1,0 +1,22 @@
+body{
+	background: black;
+	color:white;
+}
+.verde {
+	color: green;
+}
+.azul {
+	color: blue;
+}
+#primero {
+	font-size: 45px;
+}
+.img{
+	border:3px solid purple; 
+}
+.img:hover{
+	box-shadow: 10px 10px
+	20px white;
+	cursor: pointer;
+	transition: 15;
+}
